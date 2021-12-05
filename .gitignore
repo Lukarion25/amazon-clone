@@ -34,4 +34,4 @@ yarn-error.log*
 .vercel
 
 #firebase
-/permission.json
+permission.json
